@@ -1,0 +1,36 @@
+.Section {
+  width: full;
+  background-color: white;
+}
+
+.Profile {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: normal;
+}
+
+.Profile h3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Profile p {
+  margin-bottom: 50px;
+  color: darkgray;
+}
+
+.Education {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: normal;
+}
+
+.Education h3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Education p {
+  margin-bottom: 50px;
+  color: darkgray;
+}

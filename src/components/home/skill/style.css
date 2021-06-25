@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
+
+.skillItem {
+  background-color: cornflowerblue;
+  background-size: cover;
+  margin: 10px;
+  width: 90%;
+  height: cover;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px -2px;
+}
+
+.skillItem h3 {
+  color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-family: 'Benne', sans-serif;
+  /* margin: 20px; */
+  font-size: 24px;
+}
+
+.skillItem p {
+  color: white;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  /* margin: 20px; */
+}
