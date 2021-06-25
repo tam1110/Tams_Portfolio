@@ -1,0 +1,31 @@
+{
+    "mySkill": {
+        "description": "",
+        "skills": [
+            {
+                "name": "Python",
+                "description": "データ処理や機械学習に日常的に用いています。"
+            },
+            {
+                "name": "PostgreSQL",
+                "description": "90%"
+            },
+            {
+                "name": "React/Node.js",
+                "description": "80%"
+            },
+            {
+                "name": "HTML/CSS/Javascript",
+                "description": "80%"
+            },
+            {
+                "name": "Go",
+                "description": "80%"
+            },
+            {
+                "name": "Other",
+                "description": "80%"
+            }
+        ]
+    }
+}
