@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
 
 .skillItem {
-  background-color: cornflowerblue;
+  background-color: #32474c;
   background-size: cover;
-  margin: 10px;
+  margin: 0 auto;
   width: 90%;
   height: cover;
   border-radius: 5px;

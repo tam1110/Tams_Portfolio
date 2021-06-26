@@ -11,8 +11,7 @@ const IndexPage = () => {
       <Welcome/>
       <About />
       <MySkill/>
-      <ReseachImages/>
-      {/* <Reseach/> */}
+      <Reseach/>
       {/* <p>I'm making this by following the Gatsby Tutorial.</p> */}
     </Layout>
   )

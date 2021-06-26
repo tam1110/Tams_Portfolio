@@ -1,28 +1,43 @@
 .Section {
   width: full;
   background-color: white;
+  padding-bottom: 10px;
 }
 
 .Profile {
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 20px;
+  margin-left: 30px;
   line-height: normal;
+  font-size: larger;
 }
 
 .Profile h3 {
   margin-top: 30px;
+  padding-bottom: 10px;
   margin-bottom: 30px;
 }
 
-.Profile p {
-  margin-bottom: 50px;
-  color: darkgray;
+.Profile dt {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  font-size: larger;
+}
+.Profile dd {
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-bottom: 15px;
+
+  /* padding-top: 10px; */
+  /* color: darkgray; */
 }
 
 .Education {
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-left: 30px;
   line-height: normal;
+  font-size: larger;
 }
 
 .Education h3 {
@@ -30,7 +45,8 @@
   margin-bottom: 30px;
 }
 
-.Education p {
+.Education td {
   margin-bottom: 50px;
-  color: darkgray;
+  padding-bottom: 10px;
+  /* color: darkgray; */
 }
