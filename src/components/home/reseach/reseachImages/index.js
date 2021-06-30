@@ -1,6 +1,6 @@
 import React, {useState} from "react"
 import { Transition } from 'react-transition-group';
-import '../style.css'
+import './style.css'
 
 export default class ReseachImages extends React.Component {
     constructor(props) {

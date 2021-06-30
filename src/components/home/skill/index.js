@@ -6,7 +6,7 @@ import SectionTitle from "@components/atoms/section_title";
 import './style.css'
 
 const Section = styled.section`
-  ${tw`w-full pb-10 bg-white`};
+  ${tw`pb-10`};
 `
 const backgroundColors = ["#6495ed","#72a0a4", "#447854", "#d1741a",  "#C41E3A","#32474c", "cornflowerblue", "cornflowerblue", "cornflowerblue", "cornflowerblue"]
 

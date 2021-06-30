@@ -1,6 +1,6 @@
 .Section {
   width: full;
-  background-color: white;
+  /* background-color: black; */
   padding-bottom: 10px;
 }
 
@@ -27,9 +27,6 @@
   margin-bottom: 10px;
   margin-left: 50px;
   padding-bottom: 15px;
-
-  /* padding-top: 10px; */
-  /* color: darkgray; */
 }
 
 .Education {
@@ -48,5 +45,4 @@
 .Education td {
   margin-bottom: 50px;
   padding-bottom: 10px;
-  /* color: darkgray; */
 }
